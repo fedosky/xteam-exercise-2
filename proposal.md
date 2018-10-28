@@ -29,8 +29,9 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 
 ## Problem Description
 
-Briefly describe a problem that your team would like to solve.  
-Describe at a high level a program that could solve that problem.
+People who love to read, really love to read. Sometimes it can be hard to keep track of what books you've already read, which ones you have yet to read, etc. Wouldn't it help to be able to track your reading activity in a more dynamic way? A personal library application could help solve that.
+
+The app would track books via ISBN. Author, title, page count, cover, etc. would all be listed. Also, status updates on read, not read, how much progress they've made, etc.
 
 ## Questions to answer for Exercise #2
 
